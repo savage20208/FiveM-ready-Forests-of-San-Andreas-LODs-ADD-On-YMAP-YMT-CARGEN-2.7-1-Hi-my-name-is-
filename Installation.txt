@@ -1,0 +1,8 @@
+Create a new folder in this folder called stream then drag the .ymap file and place it in there after that 
+copy one of the __resource.lua that has been provided with the other maps and place it in the same directory 
+where you made the stream folder 
+make sure to start the file name "Abandoned red car" in your server.cfg 
+
+enjoy the map 
+
+Mr. Savage 20208 :)

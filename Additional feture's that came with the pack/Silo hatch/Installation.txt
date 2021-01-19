@@ -1,0 +1,7 @@
+Here select which ever you want and Create a whole new folder called Silo-hatch then inside that create a stream folder and a __resource.lua 
+*just copy the __resource.lua from one of the other maps* inside the stream folder put the .ymap file of whichever map you chose and then start 
+the "Silo-Hatch" in your server.cfg  
+
+enjoy the map 
+
+Mr. Savage 20208 :)
